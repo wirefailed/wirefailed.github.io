@@ -8,6 +8,7 @@ HandSignalCV is a project designed to detect American Sign Language (ASL) from a
 
 Using this data, the project will create a Deep Neural Network (DNN) with convolutional layers and ReLU activation functions, trained using the Adam optimizer. An AI API will be integrated to verify the constructed sentences, ensuring accuracy.
 
+For details:
 [Link to Github Repo](https://github.com/wirefailed/HandSignalCV)
 
 Check out my blogs to see how I learn to code this project
