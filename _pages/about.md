@@ -9,6 +9,7 @@ redirect_from:
 
 
 👋 Hi there! My name is Junsoo Kim.
+
 💻 I am currently sophomore student at USC, studying Physics/CS.
 👶 I will introduce more about myself!
 
