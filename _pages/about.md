@@ -26,10 +26,3 @@ I enjoy exploring various subfields of Machine Learning. If you are interested i
 📕 These days, I try to read as much as possible! I am currently reading "Surely You're Joking, Mr. Feynman." I highly recommend it to anyone reading my page. As someone interested in physics, I thoroughly enjoyed his anecdotes and found his perspective on the world fascinating.
 
 💪 Going to the gym has become an essential part of my life. It is a key part of my daily routine. If you're interested in my workout program, I follow a Push-Pull-Legs (PPL) routine!
-
-## Where I am from
-
-I jokingly tell my friends: "Manufactured in Korea. Assembled in Vancouver. Sold in Los Angeles." Try to guess what that means."
-
-## Contact Me
-Contact me through anywhere!
