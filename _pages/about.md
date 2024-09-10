@@ -14,15 +14,15 @@ redirect_from:
 👶 I will introduce more about myself!
 
 ## Current Project
-🖍️ Since 2024, I have been self-studying Machine Learning during my free time. I am particularly interested in the mathematics behind Stable Diffusion and plan to share my annotated notes once I complete them.
+🖍️ Since 2024, I have been self-studying Machine Learning during my free time. I am currently working on developing Swift app and planning to publish it during this academic year.
 
 I enjoy exploring various subfields of Machine Learning. If you are interested in starting a project, feel free to contact me!
 
-📚 In addition to this, I am currently reading papers on Reinforcement Learning (RL) and have attempted to implement Deep Reinforcement Learning (DRL) in a 3D environment. Unfortunately, my computer couldn't handle the computational load, but I'm eager to continue learning and experimenting in this area.
+📚 In addition to this, I am currently refining my understanding of Deep Reinforcement Learning. I will share few chapters at a time in blog to keep in track of my insights.
 
 ## Hobbies and Interests
-🎥 When I am not on my computer, I like to watch old classic movies or new releases! I have been a fan of all kinds of movies since childhood. Recently, I watched "Forrest Gump" without knowing the plot and with no expectations. To my surprise, I quite enjoyed it, especially seeing Forrest's resilience throughout his life.
+🎥 When I am not on my computer, I enjoy watching both classic movies and new releases! I have been a fan of all kinds of films since childhood. Recently, I watched Snowpiercer, which fascinated me with its portrayal of a plausible dystopia that could occur in the future.
 
-📕 These days, I try to read as much as possible! I am currently reading "Surely You're Joking, Mr. Feynman." I highly recommend it to anyone reading my page. As someone interested in physics, I thoroughly enjoyed his anecdotes and found his perspective on the world fascinating.
+📕 These days, I try to read as much as possible! I have recently completed "Surely You're Joking, Mr. Feynman." I highly recommend it to anyone reading my page. I am starting on "Cosmos" by Carl Sagan
 
 💪 Going to the gym has become an essential part of my life. It is a key part of my daily routine. If you're interested in my workout program, I follow a Push-Pull-Legs (PPL) routine!
